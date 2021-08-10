@@ -26,10 +26,6 @@ header {
     color: #fce138;
     margin: 0;
   }
-  
-  header a {
-    color: #fce138;
-  }
 
   header a {
     text-decoration: none;
@@ -107,7 +103,6 @@ header {
     background-color: #fce138;
     padding: 20px;
     border: solid 3px #024e76;
-    width: 40%;
     margin: 3.5%;
   }
 
@@ -135,18 +130,6 @@ header {
     color: #fce138;
   }
 
-  .form-input {
-    font-size: larger;
-    color: #024e76;
-    border: 1px solid #024e76;
-    display: block;
-    padding: 7px 15px;
-    font-size: 16px;
-    width: 100%;
-    margin-bottom: 15px;
-
-  }
-
   .hero-form label {
     margin: 0 5px;
   }
@@ -157,6 +140,18 @@ header {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+  }
+
+  .form-input {
+    font-size: larger;
+    color: #024e76;
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 15px;
+
   }
 
   .intro p {
