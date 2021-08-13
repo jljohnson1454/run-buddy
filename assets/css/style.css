@@ -242,7 +242,7 @@ header {
     content:none;
   }
 
-  .checkbox-rapper input:checked + label::after,
+  .checkbox-wrapper input:checked + label::after,
   .radio-wrapper input:checked + label::after {
     content:"";
   }
