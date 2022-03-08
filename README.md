@@ -10,6 +10,10 @@ A website that offers fitness training services.
 ## Website
 https://lernantino.github.io/run-buddy/
 
+## Screenshot
+
+![Alt text](/assets/images/screenshot.png "Optional Title")
+
 ## Contribution
 Made with ❤️ by Jacob Johnson
 
